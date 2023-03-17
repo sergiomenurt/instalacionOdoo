@@ -16,7 +16,7 @@
 
 <h3>6. depends-on: </h3> Lista de servicios de los cual depende el servicio de Odoo, en este caso, Odoo depende de solo del servicio de db (base de datos).
 
-<h2>Para levantar nuestro docker-compose deberemos de utilizar el siguiente comando:</h2>
+<h3>Para levantar nuestro docker-compose deberemos de utilizar el siguiente comando:</h3>
 
 ![Captura de pantalla 2023-03-15 234312.png](Captura%20de%20pantalla%202023-03-15%20234312.png)
 
